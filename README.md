@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/mercadoeletronico/backend-challenge/e5385964aa7d61f6f4bdc04791e15a963d39b330/me.svg" width="200" alt="ME">
-
 # Como usar:
 
 * Você precisará do Visual Studio 2019 e do .NET Core SDK 3.1
